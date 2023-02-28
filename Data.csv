@@ -1,0 +1,11 @@
+Country,Age,Salary,Purchased
+France,44,80000,No
+japan,27,48000,Yes
+china,30,54000,No
+japan,38,61000,Yes
+china,40,45000,No
+France,35,,No
+japan,,52000,Yes
+France,48,90000,No
+china,50,83000,Yes
+France,37,67000,Yes
